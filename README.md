@@ -1,0 +1,2 @@
+# testGit
+Exploring GIT 
